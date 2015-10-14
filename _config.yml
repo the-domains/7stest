@@ -1,6 +1,7 @@
 name: 7stest
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.58361
+typography_spectrum: 0.97705
 cta:
   domain: null
   bucket: null
