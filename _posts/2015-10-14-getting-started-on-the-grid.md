@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-10-14T05:52:15.933Z'
-dateModified: '2015-10-14T05:52:04.829Z'
+datePublished: '2015-10-14T06:00:42.515Z'
+dateModified: '2015-10-14T06:00:11.562Z'
 title: Getting Started on The Grid
 author: []
 sourcePath: _posts/2015-10-14-getting-started-on-the-grid.md
